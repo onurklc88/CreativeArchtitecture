@@ -1,0 +1,82 @@
+c:\users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\bin\Debug\Creative Artitecture.exe.config
+c:\users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\bin\Debug\Creative Artitecture.exe
+c:\users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\bin\Debug\Creative Artitecture.pdb
+c:\users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\obj\Debug\Creative Artitecture.csprojResolveAssemblyReference.cache
+c:\users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Form1.resources
+c:\users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Properties.Resources.resources
+c:\users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\obj\Debug\Creative Artitecture.csproj.GenerateResource.Cache
+c:\users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\obj\Debug\Creative Artitecture.exe
+c:\users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\obj\Debug\Creative Artitecture.pdb
+C:\Users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Form2.resources
+C:\Users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Form3.resources
+C:\Users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Form4.resources
+C:\Users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Form5.resources
+C:\Users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\bin\Debug\Interop.QTOControlLib.dll
+C:\Users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\bin\Debug\Interop.WMPLib.dll
+C:\Users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\bin\Debug\AxInterop.QTOControlLib.dll
+C:\Users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\obj\Debug\Interop.QTOControlLib.dll
+C:\Users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\obj\Debug\Interop.QTOLibrary.dll
+C:\Users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\obj\Debug\Interop.WMPLib.dll
+C:\Users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\obj\Debug\AxInterop.QTOControlLib.dll
+C:\Users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\obj\Debug\Creative Artitecture.csproj.ResolveComReference.cache
+C:\Users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.frmMyPlayer.resources
+C:\Users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\bin\Debug\SharpZipLib.dll
+C:\Users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Form6.resources
+C:\Users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Form8.resources
+C:\Users\onrk\onedrive\belgeler\visual studio 2017\Projects\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Form9.resources
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\bin\Debug\Creative Artitecture.exe.config
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\bin\Debug\Creative Artitecture.exe
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\bin\Debug\Creative Artitecture.pdb
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\bin\Debug\Interop.QTOControlLib.dll
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\bin\Debug\Interop.WMPLib.dll
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\bin\Debug\AxInterop.QTOControlLib.dll
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative Artitecture.csprojResolveAssemblyReference.cache
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Interop.QTOControlLib.dll
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Interop.QTOLibrary.dll
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Interop.WMPLib.dll
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\AxInterop.QTOControlLib.dll
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative Artitecture.csproj.ResolveComReference.cache
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Form1.resources
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Form2.resources
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Form3.resources
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Form4.resources
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Form5.resources
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Form6.resources
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Form8.resources
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Form9.resources
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.frmMyPlayer.resources
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Properties.Resources.resources
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative Artitecture.csproj.GenerateResource.Cache
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative Artitecture.exe
+C:\Users\onrk\Desktop\usb sürücü\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative Artitecture.pdb
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\bin\Debug\Creative Artitecture.exe.config
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\bin\Debug\Creative Artitecture.exe
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\bin\Debug\Creative Artitecture.pdb
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\bin\Debug\Interop.QTOControlLib.dll
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\bin\Debug\Interop.WMPLib.dll
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\bin\Debug\AxInterop.QTOControlLib.dll
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative Artitecture.csprojResolveAssemblyReference.cache
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Interop.QTOControlLib.dll
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Interop.QTOLibrary.dll
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Interop.WMPLib.dll
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\AxInterop.QTOControlLib.dll
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative Artitecture.csproj.ResolveComReference.cache
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Form1.resources
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Form2.resources
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Form3.resources
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Form4.resources
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Form5.resources
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Form6.resources
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Form8.resources
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Form9.resources
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.frmMyPlayer.resources
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative_Artitecture.Properties.Resources.resources
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative Artitecture.csproj.GenerateResource.Cache
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative Artitecture.exe
+C:\Users\onrk\Desktop\Onurcan Kılıç 15MY03034 Mezuniyet Projesi\Creative Artitecture\Creative Artitecture\obj\Debug\Creative Artitecture.pdb
